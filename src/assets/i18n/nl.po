@@ -8,60 +8,65 @@ msgid " Check Notifications for more details."
 msgstr ""
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Updates downloaden"
 
 msgid " First vdev has "
-msgstr ""
+msgstr " Eerste vdev heeft "
 
 msgid " First vdev is a "
-msgstr ""
+msgstr " Eerste vdev is een "
 
 msgid " Plugin"
-msgstr ""
+msgstr " Plugin"
 
 msgid " Service"
-msgstr ""
+msgstr " Service"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
 "port number of the UPS <i>Master</i> system. The default port is "
 "<i>3493</i>."
-msgstr ""
+msgstr " Wanneer de <b>UPS-modus</b> is ingesteld op <i>slave</i>. Open het open netwerk "
+ "poortnummer van het UPS <i>Master</i> systeem. De standaardpoort is"
+ "<I>3493</ i>."
 
 msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
-msgstr ""
+msgstr " een wachtwoordzin maakt een bestaand pool herstel sleutelbestand ongeldig. Om een ​​"
+ "back-up van de bestaande coderingssleutel zonder wijzigingen aan te brengen, klik"
+ "<b>DOWNLOAD CODERINGSSLEUTEL</b>."
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
 "selected."
-msgstr ""
+msgstr " adressen. Wanneer dit is gekozen, kunnen extra adressen niet worden "
+ "geselecteerd."
 
 msgid " and "
-msgstr ""
+msgstr " en "
 
 msgid " and all snapshots of it?"
-msgstr ""
+msgstr " en alle snapshots ervan?"
 
 msgid " but datastore "
-msgstr ""
+msgstr " behalve data-opslag "
 
 msgid " disks"
-msgstr ""
+msgstr " schijven"
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr " schijven nieuwe vdev heeft "
 
 msgid " has been unlocked."
-msgstr ""
+msgstr " is ontgrendeld."
 
 msgid " is "
-msgstr ""
+msgstr " is "
 
 msgid " is required."
-msgstr ""
+msgstr " is verplicht"
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
@@ -77,19 +82,19 @@ msgid " service has been enabled."
 msgstr ""
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " systeem is opgestart en verbonden met het netwerk."
 
 msgid " to include all "
 msgstr ""
 
 msgid " update successful"
-msgstr ""
+msgstr " update succesvol"
 
 msgid " updated."
-msgstr ""
+msgstr " ge-update."
 
 msgid "% of all cores"
-msgstr ""
+msgstr "% van alle cores"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -102,37 +107,37 @@ msgid "'. All data on that pool was destroyed."
 msgstr ""
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Geen beschrijving)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Verwijder pool uit database)"
 
 msgid "*allow_sysvipc"
-msgstr ""
+msgstr "*allow_sysvipc"
 
 msgid ", new vdev is "
-msgstr ""
+msgstr ", nieuwe vdev is "
 
 msgid ". All data on that pool was destroyed."
-msgstr ""
+msgstr ". Alle data op die pool was vernietigd."
 
 msgid ". At least one is required."
-msgstr ""
+msgstr ". Minimaal èèn is verplicht."
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". Is dit correct?"
 
 msgid "... Make sure the "
-msgstr ""
+msgstr "... Zorg ervoor dat "
 
-msgid "0=Disabled, blank=inherit"
+msgid "0=Uitgeschakeld, blank=erven"
 msgstr ""
 
 msgid "20 characters is the maximum length."
 msgstr ""
 
 msgid ": Automatic update check failed. Please check system network settings."
-msgstr ""
+msgstr ": Automatische update-controle mislukt"
 
 msgid "</b> plugin deletes all data and snapshots stored with it."
 msgstr ""
@@ -150,13 +155,13 @@ msgid "</i> keypair?</p>"
 msgstr ""
 
 msgid "</i> now?"
-msgstr ""
+msgstr "</i> nu?"
 
 msgid "</i> stopped."
-msgstr ""
+msgstr "</i> gestopt."
 
 msgid "</i> updated."
-msgstr ""
+msgstr "</i> ge-update."
 
 msgid "</i>. Data on the pool will not be accessible until the pool is unlocked."
 msgstr ""
